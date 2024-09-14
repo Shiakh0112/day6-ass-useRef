@@ -1,10 +1,10 @@
 import "./App.css";
-import OTPsubmit from "./components/OTPsubmit";
+import Timer from "./components/Timer";
 
 function App() {
   return (
     <>
-      <OTPsubmit />
+      <Timer />
     </>
   );
 }
